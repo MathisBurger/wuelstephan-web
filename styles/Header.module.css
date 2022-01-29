@@ -1,0 +1,24 @@
+.header {
+    z-index: 20;
+    height: 120px;
+    background: #212121;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100vw;
+    animation-name: load-header;
+    animation-direction: normal;
+    animation-fill-mode: forwards;
+    animation-duration: .6s;
+}
+
+@keyframes load-header {
+    0% {
+        margin-top: -50px;
+        opacity: 0.5;
+    }
+    100% {
+        margin-top: 0;
+        opacity: 1;
+    }
+}
