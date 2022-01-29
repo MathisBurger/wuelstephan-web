@@ -19,7 +19,7 @@ const Header: React.FC = () => {
 
     return (
         <div className={`${style.header} ${pageScrolled ? style.headerScrolled : ''}`}>
-            <img src="/logo.png" alt="logo" style={{height: '120px'}} />
+            <img src="/logo.png" alt="logo" style={{height: '100%'}} />
         </div>
     );
 }

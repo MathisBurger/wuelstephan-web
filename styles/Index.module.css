@@ -5,3 +5,51 @@
     left: 0;
     top: 120px;
 }
+
+.textWrapper {
+    position: absolute;
+    top: 250px;
+    left: 1%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 600px;
+}
+
+.textWrapper .title {
+    background: rgba(0,0,0,.8);
+    padding: 10px;
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-size: 3em;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+.textWrapper .description {
+    background: rgba(0,0,0,.8);
+    padding: 10px;
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-size: 1.5em;
+    text-wrap: normal;
+    width: 100%;
+}
+
+@media only screen and (max-width: 680px) {
+    .topImg {
+        top: 60px;
+    }
+    .textWrapper {
+        top: 100px;
+        width: 200px;
+    }
+    .textWrapper .title {
+        font-size: 1.5em;
+    }
+    .textWrapper .description {
+        display: none;
+    }
+}
