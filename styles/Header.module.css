@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     display: flex;
-    width: 100vw;
+    width: 100%;
     animation-name: load-header;
     animation-direction: normal;
     animation-fill-mode: forwards;

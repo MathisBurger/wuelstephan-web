@@ -36,6 +36,7 @@
     font-size: 1.5em;
     text-wrap: normal;
     width: 100%;
+    height: fit-content;
 }
 
 @media only screen and (max-width: 680px) {
@@ -43,13 +44,13 @@
         top: 60px;
     }
     .textWrapper {
-        top: 100px;
-        width: 200px;
+        width: 100%;
+        left: 5%;
     }
     .textWrapper .title {
         font-size: 1.5em;
     }
     .textWrapper .description {
-        display: none;
+        font-size: 20px;
     }
 }
