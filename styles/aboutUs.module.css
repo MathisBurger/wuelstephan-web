@@ -1,0 +1,43 @@
+.container {
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.container .title {
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-size: 3em;
+    position: relative;
+    font-weight: bold;
+}
+
+.container .text {
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-size: 1.4em;
+    position: relative;
+    text-wrap: normal;
+}
+.container .imgBox {
+    width: 100%;
+    height: fit-content;
+    display: grid;
+    place-items: center;
+    grid-template-columns: repeat(3, 33%);
+}
+
+@media only screen and (max-width: 680px) {
+    .container {
+        width: 95%;
+    }
+    .container .title {
+        font-size: 2em;
+    }
+    .container .text {
+        font-size: 1em;
+    }
+}
