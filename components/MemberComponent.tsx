@@ -53,7 +53,7 @@ const MemberComponent = ()  => {
         {
             imgUrl: '/member/mathis-burger.jpg',
             name: 'Kelvin Schlüter',
-            nickname: ''
+            nickname: 'Fortnite Pro'
         },
         {
             imgUrl: '/member/mathis-burger.jpg',
