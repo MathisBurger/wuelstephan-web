@@ -1,0 +1,50 @@
+.componentTitle {
+    color: white;
+    font-family: Roboto, sans-serif;
+    font-size: 3em;
+    position: relative;
+    font-weight: bold;
+}
+
+.componentContainer {
+    width: 60%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+}
+
+.memberCard {
+    width: 225px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background: #212121;
+    font-family: Roboto, sans-serif;
+    justify-content: flex-start;
+    gap: 10px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: .3s;
+}
+.memberCard:hover {
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.6);
+    transform: scale(1.02);
+}
+.memberCard h3 {
+    font-size: 20pt;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.memberCard p {
+    font-size: 12pt;
+    font-family: Arial, cursive;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
