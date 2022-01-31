@@ -7,11 +7,11 @@
 }
 
 .componentContainer {
-    width: 60%;
+    width: 80%;
     height: fit-content;
     display: flex;
     flex-direction: row;
-    gap: 50px;
+    gap: 20px;
     flex-wrap: wrap;
     padding-bottom: 50px;
     align-items: center;
