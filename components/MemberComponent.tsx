@@ -26,7 +26,7 @@ const MemberComponent = ()  => {
             nickname: 'Perzi'
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/joern-laabsch.png',
             name: 'Jörn Laabsch',
             nickname: 'Der dicke Bäcker'
         },
@@ -41,7 +41,7 @@ const MemberComponent = ()  => {
             nickname: ''
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/lorenz-eckhoff.png',
             name: 'Lorenz Eckhoff',
             nickname: ''
         },
