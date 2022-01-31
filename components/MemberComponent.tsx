@@ -11,7 +11,7 @@ const MemberComponent = ()  => {
             nickname: 'youngBurger'
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Tinus Trede',
             nickname: 'Daddelo'
         },
@@ -21,62 +21,62 @@ const MemberComponent = ()  => {
             nickname: 'EP'
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Peer Arndt',
             nickname: 'Perzi'
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Jörn Laabsch',
             nickname: 'Der dicke Bäcker'
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Claas Vollmert',
             nickname: 'Kakao'
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Tom Kurds',
             nickname: ''
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Lorenz Eckhoff',
             nickname: ''
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Jarig Roenn',
             nickname: ''
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Kelvin Schlüter',
             nickname: 'Fortnite Pro'
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Macius Darm',
             nickname: ''
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Tiade Speck',
             nickname: ''
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Tjark Rolfs',
             nickname: ''
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Oke Schuhard',
             nickname: ''
         },
         {
-            imgUrl: '/member/mathis-burger.jpg',
+            imgUrl: '/member/default.jpg',
             name: 'Folke Sommer',
             nickname: ''
         }
