@@ -12,8 +12,8 @@ const MemberComponent = ()  => {
         },
         {
             imgUrl: '/member/mathis-burger.jpg',
-            name: 'Mathis Burger',
-            nickname: 'youngBurger'
+            name: 'Tinus Trede',
+            nickname: 'Der Daddler'
         },
         {
             imgUrl: '/member/mathis-burger.jpg',
@@ -37,7 +37,7 @@ const MemberComponent = ()  => {
         <div className={style.componentTitle}>Unsere Mitglieder</div>
           <div className={style.componentContainer}>
               {members.map(props => (
-                  <MemberCard {...props} />
+                  <MemberCard {...props} key={props.name} />
               ))}
           </div>
       </>

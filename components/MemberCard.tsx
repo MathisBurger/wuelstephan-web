@@ -14,7 +14,7 @@ const MemberCard = ({imgUrl, name, nickname}: MemberCardProps) => {
         <div className={style.memberCard}>
             <img src={imgUrl} alt="profile-picture" />
             <h3>{name}</h3>
-            <p>"{nickname}"</p>
+            <p>&quot;{nickname}&quot;</p>
         </div>
     )
 }
