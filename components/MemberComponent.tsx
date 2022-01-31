@@ -62,11 +62,6 @@ const MemberComponent = ()  => {
         },
         {
             imgUrl: '/member/mathis-burger.jpg',
-            name: 'Claas Vollmert',
-            nickname: 'Kakao'
-        },
-        {
-            imgUrl: '/member/mathis-burger.jpg',
             name: 'Tiade Speck',
             nickname: ''
         },
