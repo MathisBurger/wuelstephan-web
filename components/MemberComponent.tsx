@@ -31,7 +31,7 @@ const MemberComponent = ()  => {
             nickname: 'Der dicke Bäcker'
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/claas-vollmert.png',
             name: 'Claas Vollmert',
             nickname: 'Kakao'
         },
