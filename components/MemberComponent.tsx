@@ -8,7 +8,7 @@ const MemberComponent = ()  => {
         {
             imgUrl: '/member/mathis-burger.png',
             name: 'Mathis Burger',
-            nickname: 'youngBurger'
+            nickname: 'BWL Burger'
         },
         {
             imgUrl: '/member/default.jpg',
@@ -38,7 +38,7 @@ const MemberComponent = ()  => {
         {
             imgUrl: '/member/default.jpg',
             name: 'Tom Kurds',
-            nickname: ''
+            nickname: 'RoterRollerTunerTom'
         },
         {
             imgUrl: '/member/lorenz-eckhoff.png',
