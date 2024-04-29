@@ -11,7 +11,7 @@ const MemberComponent = ()  => {
             nickname: 'BWL Burger'
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/tinos.png',
             name: 'Tinus Trede',
             nickname: 'Daddelo'
         },
@@ -21,7 +21,7 @@ const MemberComponent = ()  => {
             nickname: 'EP'
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/per.png',
             name: 'Peer Arndt',
             nickname: 'Perzi'
         },
@@ -36,7 +36,7 @@ const MemberComponent = ()  => {
             nickname: 'Kakao'
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/tom.png',
             name: 'Tom Kurds',
             nickname: 'RoterRollerTunerTom'
         },
@@ -51,17 +51,17 @@ const MemberComponent = ()  => {
             nickname: ''
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/kelvin.png',
             name: 'Kelvin Schlüter',
             nickname: 'Fortnite Pro'
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/maci.png',
             name: 'Macius Darm',
             nickname: ''
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/tiade.png',
             name: 'Tiade Speck',
             nickname: ''
         },
@@ -71,7 +71,7 @@ const MemberComponent = ()  => {
             nickname: ''
         },
         {
-            imgUrl: '/member/default.jpg',
+            imgUrl: '/member/oke.png',
             name: 'Oke Schuhard',
             nickname: ''
         },
